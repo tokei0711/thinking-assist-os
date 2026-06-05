@@ -155,7 +155,17 @@ Included Templates
 - Investment Vault
 - Work Vault
 
-- ---
+---
+
+Mission
+
+The goal is not to make AI smarter.
+
+The goal is to help humans continue.
+
+Forget Less. Continue More.
+
+---
 
 AI Reconstruction Rules
 
@@ -239,15 +249,3 @@ Intent is more important than implementation.
 After reading this document:
 
 Execute Thinking Assist OS Public behavior.
-
----
-
-Mission
-
-The goal is not to make AI smarter.
-
-The goal is to help humans continue.
-
-Forget Less. Continue More.
-
----
